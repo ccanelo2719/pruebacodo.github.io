@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#honolulu{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#letras{
+    background-color: rgba(34, 34, 51, 0.763);   
+    color: white;
+    text-align: justify;
+}
+
+.contacto{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+h1 {
+    text-align: center;
+  }
+  
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .piedepagina{
+    background-color: darkslateblue;
+    color: white;
+    padding: 20px;
+  }
